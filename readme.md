@@ -4,7 +4,7 @@
 3. from pdb import set_trace as T. It's the single best software engineering trick I know. RL is a pain to get working -- take advantage of interactive debugging.
 
 For newcomers to Deep Learning
-RL is probably the area of deep learning least friendly to newcomers. The major RL algorithms are dead simple, but they require a ton of code to get anything working. And debugging bad RL training loops is a nightmare.  I'd suggest going through the Stanford CS231N lecture videos first and getting comfortable training a few CNNs and LSTMs. 
+RL is probably the area of deep learning least friendly to newcomers. The major RL algorithms are dead simple, but they require a ton of code to get anything working. And debugging bad RL training loops is a nightmare.  I'd suggest going through the [Stanford CS231N](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) lecture videos first and getting comfortable training a few CNNs and LSTMs. 
 
 # Learning plan
 
