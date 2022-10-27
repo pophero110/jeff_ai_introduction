@@ -1,3 +1,11 @@
+# Advices
+1. The level of mathematical detail presented is much much more than is required to get started. If you are a stronger programmer than mathematician, go straight to the code. 
+2. TensorFlow + MPI is probably the least newbie friendly framework pairing I could think of. If TensorFlow doesn't break your debugger with it's internal graph compilation, MPI certainly will. You might as well be writing in C. My personal recommendation is PyTorch + Ray.  For reference, the Neural MMO infrastructure is built on Ray, and the experiment code is all in PyTorch.
+3. from pdb import set_trace as T. It's the single best software engineering trick I know. RL is a pain to get working -- take advantage of interactive debugging.
+
+For newcomers to Deep Learning
+RL is probably the area of deep learning least friendly to newcomers. The major RL algorithms are dead simple, but they require a ton of code to get anything working. And debugging bad RL training loops is a nightmare.  I'd suggest going through the Stanford CS231N lecture videos first and getting comfortable training a few CNNs and LSTMs. 
+
 # Learning plan
 
 ## Reinforcement Learning
