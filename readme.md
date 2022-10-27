@@ -9,6 +9,8 @@ RL is probably the area of deep learning least friendly to newcomers. The major 
 # Learning plan
 
 ## Reinforcement Learning
+https://spinningup.openai.com/en/latest/index.html
+http://karpathy.github.io/2016/05/31/rl/
 https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/7264680#overview
 https://www.superdatascience.com/pages/artificial-intelligence
 ## Deeping Learning
