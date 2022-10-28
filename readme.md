@@ -1,3 +1,5 @@
+# Agenda
+1. build a neural network
 # Advices
 1. The level of mathematical detail presented is much much more than is required to get started. If you are a stronger programmer than mathematician, go straight to the code. 
 2. TensorFlow + MPI is probably the least newbie friendly framework pairing I could think of. If TensorFlow doesn't break your debugger with it's internal graph compilation, MPI certainly will. You might as well be writing in C. My personal recommendation is PyTorch + Ray.  For reference, the Neural MMO infrastructure is built on Ray, and the experiment code is all in PyTorch.
@@ -16,3 +18,8 @@ RL is probably the area of deep learning least friendly to newcomers. The major 
 ## Deeping Learning
 
 - https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
+
+# Inpiration
+- Andrea Ng
+- Lex Fridman
+- Fei Fei Li
