@@ -1,3 +1,6 @@
+# Learning Tactic 
+better to use top-down approach means learning how to implement a method before going back and covering the theory.
+In summary, you don’t need to understand everything about the specific architecture of an LSTM cell; as a human, it shouldn’t be your job to understand it. Just keep in mind what the *LSTM cell is meant to do: allow past information to be reinjected at a later time.*
 # Agenda
 1. build a neural network
 # Advices
