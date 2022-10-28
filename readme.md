@@ -11,16 +11,16 @@ In summary, you don’t need to understand everything about the specific archite
 For newcomers to Deep Learning
 RL is probably the area of deep learning least friendly to newcomers. The major RL algorithms are dead simple, but they require a ton of code to get anything working. And debugging bad RL training loops is a nightmare.  I'd suggest going through the [Stanford CS231N](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) lecture videos first and getting comfortable training a few CNNs and LSTMs. 
 
-# Learning plan
+# Learning Topic
 
-## Reinforcement Learning
+## Machine Learning
+- https://www.deeplearning.ai/
+
+## Reinforcement Learning && Deeping Learning
 - https://spinningup.openai.com/en/latest/index.html
 - http://karpathy.github.io/2016/05/31/rl/
 - https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/7264680#overview
 - https://www.superdatascience.com/pages/artificial-intelligence
-## Deeping Learning
-
-- https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
 
 # Inpiration
 - Andrea Ng
