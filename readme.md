@@ -23,6 +23,7 @@ RL is probably the area of deep learning least friendly to newcomers. The major 
 - https://www.superdatascience.com/pages/artificial-intelligence
 
 # Inpiration
+- AI playlist
 - Andrea Ng
 - Lex Fridman
 - Fei Fei Li
